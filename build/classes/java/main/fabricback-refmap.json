@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "me/reimnop/fabricback/mixin/ServerPlayerEntityMixin": {
+      "onDeath(Lnet/minecraft/entity/damage/DamageSource;)V": "Lnet/minecraft/class_3222;method_6078(Lnet/minecraft/class_1282;)V"
+    }
+  },
+  "data": {
+    "named:intermediary": {
+      "me/reimnop/fabricback/mixin/ServerPlayerEntityMixin": {
+        "onDeath(Lnet/minecraft/entity/damage/DamageSource;)V": "Lnet/minecraft/class_3222;method_6078(Lnet/minecraft/class_1282;)V"
+      }
+    }
+  }
+}

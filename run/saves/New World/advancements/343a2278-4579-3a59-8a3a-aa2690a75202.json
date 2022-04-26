@@ -1,0 +1,15 @@
+{
+  "minecraft:nether/explore_nether": {
+    "criteria": {
+      "minecraft:nether_wastes": "2022-04-26 17:07:43 +0700"
+    },
+    "done": false
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:plains": "2022-04-26 17:07:54 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2975
+}

@@ -1,0 +1,3 @@
+v1	named	intermediary
+FIELD	me/reimnop/fabricback/mixin/ServerPlayerEntityMixin	Lnet/minecraft/server/MinecraftServer;	server	field_13995
+METHOD	me/reimnop/fabricback/mixin/ServerPlayerEntityMixin	()Lnet/minecraft/server/world/ServerWorld;	getWorld	method_14220
