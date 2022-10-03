@@ -1,6 +1,0 @@
-{
-  "package": "me.reimnop.fabricback.mixin",
-  "mixins": [
-    "ServerPlayerEntityMixin"
-  ]
-}
